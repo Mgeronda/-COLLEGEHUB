@@ -8,7 +8,7 @@ Define scope: Outline app features, objectives,and target audience.
 
 requirements gathering: Meet with stakeholders(students,faculty,administation) to gather input.
 
-Wireframe Design:Sketch the app layoutand navigation flow.
+Wireframe Design: Sketch the app layoutand navigation flow.
 
 Technical stack setup: Decide on tools, programming languages and framework.
 
@@ -19,9 +19,11 @@ User flow testing: Test mockups with a small group for feedback.
 
 Finalize designe: Implement changes based on user feedback.
 
-Week 3-4: Development phase1(Core Features)
-Setup backend: Create database schema for events, schedules, and notifications.
+phase1(Core Features)
 
+Week 3-4: Development
+
+Setup backend: Create database schema for events, schedules, and notifications.
 
 Develop Fronted: Implement the main screens(Dashboard, calendar,notifications, event details).
 
