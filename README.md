@@ -7,6 +7,7 @@ Week 1: Planning and ideation
 Define scope: Outline app features, objectives,and target audience.
 
 requirements gathering: Meet with stakeholders(students,faculty,administation) to gather input.
+
 Wireframe Design:Sketch the app layoutand navigation flow.
 
 Technical stack setup: Decide on tools, programming languages and framework.
